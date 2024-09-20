@@ -1,0 +1,14 @@
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.exe
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.deps.json
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.runtimeconfig.json
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.dll
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.pdb
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.AssemblyInfo.cs
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.dll
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\refint\Data Structures and Algorithms.dll
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.pdb
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.genruntimeconfig.cache
+C:\Users\ICEP-INTERN\Documents\Data Structures and Algorithms\obj\Debug\net8.0\ref\Data Structures and Algorithms.dll
